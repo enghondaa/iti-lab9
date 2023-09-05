@@ -1,0 +1,10 @@
+.active-btn {
+    color: white !important;
+    background: #1ABC9C !important;
+    border-radius: 10px !important;
+    
+}
+.navbar-dark {
+    --bs-navbar-color: rgb(255, 255, 255) !important;
+    --bs-navbar-hover-color: rgba(255, 255, 255, 0.75); 
+}
